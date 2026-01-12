@@ -416,4 +416,4 @@ style.textContent = `
 document.head.appendChild(style);
 
 console.log('%c🚀 Portfólio de João Lucas carregado com sucesso!', 'color: #dc2626; font-size: 16px; font-weight: bold;');
-console.log('%c💼 Desenvolvedor Full-Stack | HTML, CSS, Python, JavaScript', 'color: #a3a3a3; font-size: 12px;');
+console.log('%c💼 Desenvolvedor Full-Stack | HTML, CSS, Python, JavaScript', 'color: #a3a3a3; font-size: 12px;')
